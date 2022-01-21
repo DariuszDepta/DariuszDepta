@@ -1,4 +1,3 @@
 ### personal projects
 
-#### notes
-https://dariuszdepta.github.io/
+- [notes](https://dariuszdepta.github.io/)

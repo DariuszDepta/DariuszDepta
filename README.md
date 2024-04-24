@@ -1,8 +1,8 @@
-## Software
+### software
 - [**Decision Toolkit**](https://github.com/DecisionToolkit)
 
-## Articles
+### articles
 - [**DMN Decision Execution on the Cosmos Blockchain**](https://depta.medium.com/dmn-decision-execution-on-the-cosmos-blockchain-0d8c76c29e67)
 
-## Miscellaneous
+### miscellaneous
 - [**NOTES**](https://dariuszdepta.github.io)

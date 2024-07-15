@@ -1,4 +1,4 @@
-## [**Decision Toolkit**](https://github.com/DecisionToolkit)
+# [**Decision Toolkit**](https://github.com/DecisionToolkit)
 
 #### [ARTICLES](https://depta.medium.com)
 

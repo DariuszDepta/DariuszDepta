@@ -1,6 +1,7 @@
 #### SOFTWARE
 
-- [**Decision Toolkit**](https://github.com/DecisionToolkit)
+- [**Decision Toolkit**](https://github.com/DecisionToolkit) - Decision Model and Notation™ (DMN™) engine written in Rust
+- [htop](https://github.com/EngosSoftware/htop) - HTML to PDF converter written in Rust
 
 #### [ARTICLES](https://depta.medium.com)
 

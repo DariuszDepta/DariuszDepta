@@ -2,7 +2,7 @@
 
 - [**Decision Toolkit**](https://github.com/DecisionToolkit) - DMN™ engine written in Rust 🔥
 - [dte](https://github.com/DecisionToolkit/dte) - Decision table editor 🛸
-- [htop](https://github.com/EngosSoftware/htop) - HTML to PDF converter written in Rust
+- [htop](https://github.com/EngosSoftware/htop) - HTML to PDF converter written in Rust <span style="font-size:30px">🚁</span>
 
 #### [ARTICLES](https://depta.medium.com)
 

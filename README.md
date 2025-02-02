@@ -14,4 +14,4 @@
 
 #### [**NOTES**](https://dariuszdepta.github.io)
 
-#### [**Notes @ FutureMe**](https://dariuszdepta.github.io/notes/)
+#### [**Notes @FutureMe**](https://dariuszdepta.github.io/notes/)

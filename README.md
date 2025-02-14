@@ -13,5 +13,3 @@
 - [CosmWasm MultiTest 0.18 released!](https://medium.com/cosmwasm/cosmwasm-multitest-0-18-released-cc826aa0948a)
 
 [Notes **@FutureMe**](https://dariuszdepta.github.io/notes/)
-
-[Notes from the past](https://dariuszdepta.github.io)

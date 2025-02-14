@@ -1,8 +1,8 @@
 #### SOFTWARE
 
 - [**Decision Toolkit**](https://github.com/DecisionToolkit) 🔥 DMN™ engine written in Rust
-- [**dte**](https://github.com/DecisionToolkit/dte) 🚀 Decision table editor
 - [**htop**](https://github.com/EngosSoftware/htop) 🛸 HTML to PDF converter written in Rust
+- [**dte**](https://github.com/DecisionToolkit/dte) 🚀 Decision table editor
 
 #### [ARTICLES](https://depta.medium.com)
 
@@ -12,6 +12,8 @@
 - [Addresses in CosmWasm MultiTest](https://medium.com/cosmwasm/addresses-in-cosmwasm-multitest-68207ae845e6)
 - [CosmWasm MultiTest 0.18 released!](https://medium.com/cosmwasm/cosmwasm-multitest-0-18-released-cc826aa0948a)
 
-#### [**NOTES**](https://dariuszdepta.github.io)
-
 #### [**Notes @FutureMe**](https://dariuszdepta.github.io/notes/)
+
+---
+
+[Notes from the past](https://dariuszdepta.github.io)

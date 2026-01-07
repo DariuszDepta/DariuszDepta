@@ -12,4 +12,8 @@
 - [Addresses in CosmWasm MultiTest](https://medium.com/cosmwasm/addresses-in-cosmwasm-multitest-68207ae845e6)
 - [CosmWasm MultiTest 0.18 released!](https://medium.com/cosmwasm/cosmwasm-multitest-0-18-released-cc826aa0948a)
 
+<<<<<<< HEAD
 ### [Notes **﹫futureMe**](https://dariuszdepta.github.io/notes/)
+=======
+### [Notes @ futureMe](https://dariuszdepta.github.io/notes/)
+>>>>>>> a028b2a (Updates.)
